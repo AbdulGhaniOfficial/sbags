@@ -4,3 +4,4 @@ I am currently working on my main/master branch while I have other branch also
 Hellish world!
 Learning AbdulGhani branch hahahaha! hel
 There is more to check out diff by using git diff command!
+I am trying out git stash 1
